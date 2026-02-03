@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<h3>Main skills</h3>
+<h3>Main Interests</h3>
 
 <img src="https://skillicons.dev/icons?i=py,git,flask,react,vite,html,css,blender" />
 
