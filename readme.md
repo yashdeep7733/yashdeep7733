@@ -11,7 +11,7 @@
 
 ### Connect with me
 <div>
-    <a href="https://www.linkedin.com/in/daria-stanilevici/">
+    <a href="https://www.linkedin.com/in/yashdeep7733/">
         <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
     </a>
 </div>
