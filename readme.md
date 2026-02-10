@@ -7,7 +7,7 @@
 
 <h3>Main Interests</h3>
 
-<img src="https://skillicons.dev/icons?i=py,git,flask,react,vite,html,css,blender" />
+<img src="https://skillicons.dev/icons?i=py,git,pytorch,flask,react,vite,html,css,blender" />
 
 <h3>Other interests and Linkedin</h3>
 
